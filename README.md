@@ -1,4 +1,4 @@
-# ROCK-PAPER-SCISSORS-GAME
+# RPS-GAME
 
 🌟It is very simple game made using HTML,CSS and JAVSCRIPT,In this project we used the concepts like
 👉DOM MANIPULATION
